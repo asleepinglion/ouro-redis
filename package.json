@@ -1,0 +1,17 @@
+{
+  "name": "superjs-redis",
+  "author": {
+    "name": "Aaron Storck",
+    "email": "aaronstorck@gmail.com"
+  },
+  "version": "0.8.0",
+  "description": "A Redis Adapter for SuperJS.",
+  "main": "index.js",
+  "repository": "https://github.com/asleepinglion/superjs-redis",
+  "dependencies": {
+    "redis": "*",
+    "superjs": "*",
+    "superjs-api": "*"
+  },
+  "license": "MIT"
+}
