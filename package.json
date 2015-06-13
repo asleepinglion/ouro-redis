@@ -1,17 +1,17 @@
 {
-  "name": "superjs-redis",
+  "name": "ouro-redis",
   "author": {
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.4",
-  "description": "A Redis Adapter for SuperJS.",
+  "version": "0.9.0",
+  "description": "A Redis Adapter for Ouro.",
   "main": "index.js",
-  "repository": "https://github.com/asleepinglion/superjs-redis",
+  "repository": "https://github.com/asleepinglion/ouro-redis",
   "dependencies": {
     "redis": "0.12.1",
-    "superjs": "*",
-    "superjs-api": "*"
+    "ouro": "*",
+    "ouro-api": "*"
   },
   "license": "MIT"
 }

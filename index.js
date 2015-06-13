@@ -16,7 +16,7 @@ YSS'      YSSP~YSSY    S*S           YSSP  S*S    SSS  YSSY    YSS'
                        SP                  SP
                        Y                   Y
 
-                  -= Redis Client for SuperJS =-
+                  -= Redis Client for Ouro =-
  */
 
 module.exports.Redis = require('./lib/redis/class');
